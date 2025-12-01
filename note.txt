@@ -1,1 +1,3 @@
-Listing ( a place where we can add some stuffs , in easy way we post!)
+📌 Listing (Definition)
+
+A listing is a short, structured description of a project that highlights what it is, what it does, and its main features. It gives readers a quick overview without going into full documentation.
